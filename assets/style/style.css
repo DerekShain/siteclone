@@ -1,0 +1,13 @@
+
+
+body {
+    min-height: 100vh;
+    font-family: 'Noto Sans', sans-serif;
+  }
+.link{
+    text-decoration: none;
+}
+.phone{
+    width: 35vw;
+}
+
